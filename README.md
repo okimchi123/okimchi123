@@ -1,6 +1,7 @@
-Hi, I'm Miko 
-**`Information Technology Graduate`**
-#
+# Miko
+
+### Information Technology Graduate
+
 - An aspiring full stack developer specializing in the JavaScript/TypeScript ecosystem, including frontend development with React/Next.js and backend services using Node.js/Express.
 
 #
