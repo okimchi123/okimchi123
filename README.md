@@ -1,7 +1,8 @@
 # Hi, I'm Miko 
 **`Information Technology Graduate`**
 
-- An aspiring full stack developer specializing in the JavaScript/TypeScript ecosystem, including frontend development with React/Next.js and backend services using Node.js/Express.
+- An aspiring software engineer with a focus on the JavaScript/TypeScript ecosystem.
+- Specializing in frontend development using React/Next.js and building backend services with Node.js/Express.
 
 #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okimchi123&layout=compact&theme=tokyonight&v=2)
